@@ -1,4 +1,4 @@
-## Take Home Assignment
+# Take Home Assignment
 The assignment, as provided:
 
 >We would like for you to write a simple string manipulation application in C++ using the following requirements:
