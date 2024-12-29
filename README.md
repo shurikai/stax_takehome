@@ -28,7 +28,11 @@ clarification on. The questions that came to mind are:
 ## Build and Run
 First, clone this repository and cd into the root directory.
 
-`cd ./stax_takehome`
+```
+$ git clone git@github.com:shurikai/stax_takehome.git
+$ cd ./stax_takehome`
+$ git submodule update --init
+```
 
 Second, run the following commands to generate the Makefile and compile the program:
 
