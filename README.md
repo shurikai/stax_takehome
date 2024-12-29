@@ -43,7 +43,8 @@ $ cmake ..
 $ make
 ```
 
-To run the unit tests as they have been written, run the ll_test executable:  
+Unit testing was written using GTest from Google. The GTest library is included as a submodule of this repository.
+To run the unit tests as they have been written, once the default target has been built with ```make```, run the ll_test executable:  
 ```
 $ ./ll_test
 Running main() from /Users/jason/CLionProjects/stax_takehome/googletest/googletest/src/gtest_main.cc
